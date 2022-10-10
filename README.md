@@ -8,7 +8,7 @@ The aim of this project is to understand the features that may influence Air BnB
 
 Design and Data:
 
-The Design of this project is for the Metis Bootcamp Regression Module and the Data consists of 16 features (some that were dropped, totaling to 12) and over 1,000 rows of data. The main model used to predict response rate was a Ridge Regression model.
+This data consists of 16 features (some that were dropped, totaling to 12) and over 1,000 rows of data. The main model used to predict response rate was a Ridge Regression model.
 
 Algorithms:
 
